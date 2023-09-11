@@ -6,4 +6,5 @@ Before classification of text sentiment, the plain text documents need to be tra
 I have also applied machine learning approaches other that logistic regression which are Naive Bayes and SVM(Support Vector MAchine). For these machine learning techinques, I used features from the TF-IDF. Since we earlier found that TF-IDF is the best feature extraction technique. The results are shown below. 
 
 Using Logistic regression (accuracy - 89% ; F1-score - 0.89). The below image displays the confusion matrix
+
 <img width="291" alt="image" src="https://github.com/Soham2oo4/GDSC_Shortlist_Task/assets/122992973/88952478-f93b-4a1c-801a-581388af7580">
